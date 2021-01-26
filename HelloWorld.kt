@@ -1,6 +1,6 @@
 fun main() {
     println("Hello World")
-    val name:String="Soumodeep maity"
+    val name: String = "Soumodeep maity"
     println(name)
     println("$name is a student ")
 }
