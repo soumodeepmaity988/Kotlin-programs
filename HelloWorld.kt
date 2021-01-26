@@ -3,4 +3,5 @@ fun main() {
     val name:String="Soumodeep maity"
     println(name)
     println("$name is a student ")
+    println("$name is a cse student")
 }
